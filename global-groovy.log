@@ -1,0 +1,65 @@
+2020-08-10 13:48:14,572 INFO  [log] Amazon Alexa
+2020-08-10 13:48:15,784 INFO  [log] true
+2020-08-10 13:48:16,939 INFO  [log] 4 and 3
+2020-08-10 13:48:16,995 INFO  [log] SKUD00001
+2020-08-10 13:48:17,005 INFO  [log] Apple Iphone
+2020-08-10 13:48:17,010 INFO  [log] 25000
+2020-08-10 13:48:22,469 INFO  [log] Apple Iphone
+2020-08-10 13:48:23,749 INFO  [log] true
+2020-08-10 13:48:23,765 INFO  [log] Status: FINISHED, time taken for TestCase was: 6380 ms
+2020-08-10 13:48:23,788 INFO  [log] Number of test steps which ran: 9
+2020-08-10 13:48:23,796 INFO  [log] SKUD00002
+2020-08-10 13:48:23,797 INFO  [log] Samsung Galaxy
+2020-08-10 13:48:23,803 INFO  [log] 30000
+2020-08-10 13:48:28,546 INFO  [log] Samsung Galaxy
+2020-08-10 13:48:29,826 INFO  [log] true
+2020-08-10 13:48:29,837 INFO  [log] Status: FINISHED, time taken for TestCase was: 5942 ms
+2020-08-10 13:48:29,843 INFO  [log] Number of test steps which ran: 9
+2020-08-10 13:48:29,844 INFO  [log] SKUD00003
+2020-08-10 13:48:29,844 INFO  [log] Amazon Echo
+2020-08-10 13:48:29,845 INFO  [log] 2000
+2020-08-10 13:48:34,622 INFO  [log] Amazon Echo
+2020-08-10 13:48:35,848 INFO  [log] true
+2020-08-10 13:48:35,860 INFO  [log] Status: FINISHED, time taken for TestCase was: 5950 ms
+2020-08-10 13:48:35,862 INFO  [log] Number of test steps which ran: 9
+2020-08-10 13:48:36,301 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <PRODUCTS.SKU>SKUD00004</PRODUCTS.SKU>
+            <PRODUCTS.NAME>Mango MacBook</PRODUCTS.NAME>
+            <PRODUCTS.PRICE>1500</PRODUCTS.PRICE>
+        </Row>
+        <Row rowNumber="2">
+            <PRODUCTS.SKU>SKUD00005</PRODUCTS.SKU>
+            <PRODUCTS.NAME>Google Nest</PRODUCTS.NAME>
+            <PRODUCTS.PRICE>3000</PRODUCTS.PRICE>
+        </Row>
+        <Row rowNumber="3">
+            <PRODUCTS.SKU>SKUD00006</PRODUCTS.SKU>
+            <PRODUCTS.NAME>Amazon Alexa</PRODUCTS.NAME>
+            <PRODUCTS.PRICE>4500</PRODUCTS.PRICE>
+        </Row>
+    </ResultSet>
+</Results>
+
+2020-08-10 13:48:36,482 INFO  [log] SKUD00004
+2020-08-10 13:48:36,485 INFO  [log] Mango MacBook
+2020-08-10 13:48:36,492 INFO  [log] 
+2020-08-10 13:48:41,669 INFO  [log] Mango MacBook
+2020-08-10 13:48:42,942 INFO  [log] true
+2020-08-10 13:48:42,955 INFO  [log] Status: FINISHED, time taken for TestCase was: 6383 ms
+2020-08-10 13:48:42,958 INFO  [log] Number of test steps which ran: 9
+2020-08-10 13:48:42,961 INFO  [log] SKUD00005
+2020-08-10 13:48:42,965 INFO  [log] Google Nest
+2020-08-10 13:48:42,969 INFO  [log] 
+2020-08-10 13:48:48,066 INFO  [log] Google Nest
+2020-08-10 13:48:49,343 INFO  [log] true
+2020-08-10 13:48:49,355 INFO  [log] Status: FINISHED, time taken for TestCase was: 6271 ms
+2020-08-10 13:48:49,358 INFO  [log] Number of test steps which ran: 9
+2020-08-10 13:48:49,360 INFO  [log] SKUD00006
+2020-08-10 13:48:49,365 INFO  [log] Amazon Alexa
+2020-08-10 13:48:49,368 INFO  [log] 
+2020-08-10 13:48:54,465 INFO  [log] Amazon Alexa
+2020-08-10 13:48:55,743 INFO  [log] true
+2020-08-10 13:48:55,755 INFO  [log] Status: FINISHED, time taken for TestCase was: 6332 ms
+2020-08-10 13:48:55,759 INFO  [log] Number of test steps which ran: 9
